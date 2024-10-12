@@ -1,0 +1,150 @@
+html {
+    background-color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
+header h1 {
+    color: white;
+    margin-top: 10px;
+    font-size: 2rem;
+}
+
+
+nav {
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+nav h3 {
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+nav h3:hover {
+    background-color: white;
+    color: black;
+}
+
+
+section {
+    padding: 20px;
+    background-color: grey;
+}
+
+section h2 {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+section p, section h4 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+section div {
+    background-color: black;
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav h3 {
+        font-size: 1.2rem;
+    }
+
+    section h2 {
+        font-size: 1.5rem;
+    }
+
+    section p, section h4 {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    nav h3 {
+        font-size: 1rem;
+    }
+
+    section h2 {
+        font-size: 1.2rem;
+    }
+
+    section p, section h4 {
+        font-size: 0.9rem;
+    }
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+    transition: background-color 0.1s ease;
+}
+
+h4 img{
+    width: 100px;
+}

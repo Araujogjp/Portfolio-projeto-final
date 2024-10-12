@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.14">
+  <diagram name="Página-1" id="XEPvxfSYK05ytttigZQ-">
+    <mxGraphModel dx="1423" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="140" width="950" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-2" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="530" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-3" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="410" y="350" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-4" value="HOME, SOBRE, CERTIFICADOS, HOBBYS, CONTATO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="420" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1050" width="950" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="525" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-7" value="SOBRE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-9" value="CERTIFICADOS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="585" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="630" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-11" value="HOBBYS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="740" width="950" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-15" value="CONTATO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IKdrxo5p9Q5GJvtUP4OD-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="850" width="950" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
